@@ -36,8 +36,7 @@ DoublyLinkedList::~DoublyLinkedList()
 			current = NULL;
 		}
 	}
-}
-
+} 
 
 unsigned int DoublyLinkedList::size() const
 {
